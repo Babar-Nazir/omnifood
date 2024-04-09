@@ -190,6 +190,17 @@ body {
   color: #cf711f;
   border-bottom: 1px solid transparent;
 }
+.btn--form {
+  color: #fdf2e9;
+  align-self: end;
+  background-color: #45260a;
+  padding: 1.2rem;
+}
+
+.btn--form:hover {
+  background-color: #fff;
+  color: #555;
+}
 
 .list {
   list-style: none;
